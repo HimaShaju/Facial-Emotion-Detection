@@ -1,10 +1,5 @@
 # AI-Driven Facial Emotion Detection with Music Recommendation and Mental Health Tip
 
-### 🏫 Department of Computer Science and Engineering (AI & ML)  
-Global Academy of Technology, Bangalore, India
-
----
-
 ## 📖 Overview
 
 Presents an intelligent wellness system that integrates **AI-powered facial emotion recognition** with **personalized music recommendation** and **mental health tips**. The goal is to enhance emotional well-being by identifying the user's mood through facial expressions and responding with therapeutic content tailored to that mood.
